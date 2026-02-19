@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Sou Guilherme Silva Manoel, natural de São Bernardo do Campo, estou cursando Ciências e Tecnologias e Ciência da Computação na Universidade Federal do ABC. Com a conclusão deste ciclo, tenho como objetivo aprofundar meus estudos em Ciências Computacionais, com foco em adquirir novas habilidades, experiências e ampliar meus conhecimentos no campo da tecnologia. Tenho grande interesse em entender o funcionamento de sistemas, além de áreas como desenvolvimento pessoal, resolução de problemas, matemática e programação.
+Desenvolvedor de aplicações na plataforma AppBuilder, atuando no desenvolvimento de backend e frontend. Experiência com SQL, C# para plugins e HTML, CSS e JavaScript para widgets e interfaces. Busco evoluir continuamente como desenvolvedor, aprendendo novas tecnologias e ampliando meu repertório técnico.
 
 ---
 
