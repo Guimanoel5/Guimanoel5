@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Application developer Jr. on the AppBuilder platform, working on both backend and frontend development. Experienced with SQL, C# for plugins, and HTML, CSS, and JavaScript for widgets and interfaces. I am committed to continuously evolving as a developer, learning new technologies, and expanding my technical repertoire. I am also looking for challenges that help me grow professionally.
+Jr. Application Developer on the AppBuilder platform, working on both backend and frontend development. Experienced with SQL, C# for plugins, and HTML, CSS, and JavaScript for widgets and interfaces. I am committed to continuously evolving as a developer, learning new technologies, and expanding my technical repertoire. I am also looking for challenges that help me grow professionally.
 
 ---
 
