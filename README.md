@@ -4,7 +4,6 @@
 
 Application developer Jr. on the AppBuilder platform, working on both backend and frontend development. Experienced with SQL, C# for plugins, and HTML, CSS, and JavaScript for widgets and interfaces. I am committed to continuously evolving as a developer, learning new technologies, and expanding my technical repertoire. I am also looking for challenges that help me grow professionally.
 
-Desenvolvedor de aplicações Jr. na plataforma AppBuilder, atuando no desenvolvimento de backend e frontend. Possuo experiência com SQL, C# para desenvolvimento de plugins e HTML, CSS e JavaScript para criação de widgets e interfaces. Busco evoluir continuamente como desenvolvedor, aprendendo novas tecnologias, ampliando meu repertório técnico e também enfrentando novos desafios que contribuam para meu crescimento profissional.
 ---
 
 ### 🤖 Linguagens e Tecnologias
